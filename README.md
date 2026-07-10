@@ -49,6 +49,8 @@ Setup Instructions
 1. Open the terminal and Clone the repository:
 
 git clone https://github.com/AFNAN7788/Car-Showroom-Management-System.git
+
+
 cd Car-Showroom-Management-System
 
 
