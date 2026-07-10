@@ -46,19 +46,10 @@ Java Development Kit (JDK) 8 or higher: You can download it from the Oracle webs
 Setup Instructions
 
 1.
-Clone the repository:
+Open the terminal and Clone the repository:
 
-Bash
-
-
-git clone https://github.com/YOUR_USERNAME/Car-Showroom-Management-System.git
+git clone https://github.com/AFNAN7788/Car-Showroom-Management-System.git
 cd Car-Showroom-Management-System
-
-
-
-(Replace YOUR_USERNAME with your GitHub username and adjust the repository name if different. )
-
-
 
 2.
 Navigate to the project directory:
@@ -68,12 +59,10 @@ The main source code is located in the src folder.
 Compile the Java source files:
 Open a terminal or command prompt in the project's root directory and compile the Java files. If you are using an IDE like IntelliJ IDEA or Eclipse, it will handle compilation automatically.
 
-Bash
+Open Terminal and run:
 
 
 javac -d out/production/Car\ Showroom\ Management\ System src/*.java
-
-
 
 (Note: The out/production/Car Showroom Management System directory might need to be created manually if it doesn't exist, or adjusted based on your build setup.)
 
@@ -82,8 +71,6 @@ javac -d out/production/Car\ Showroom\ Management\ System src/*.java
 Execution
 
 After successful compilation, you can run the application:
-
-Bash
 
 
 java -cp out/production/Car\ Showroom\ Management\ System MainGUI
